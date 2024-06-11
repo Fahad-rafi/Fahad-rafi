@@ -1,61 +1,21 @@
-# Hello, I'm Fahad Rafi! 👋
+# 💫 About Me:
+# Hello, I'm Fahad Rafi! 👋<br><br>![Banner](https://via.placeholder.com/1200x400?text=Welcome+to+my+GitHub+Profile)<br><br>I am a passionate software engineer with over 2 years of experience in backend development and more than 6 months in frontend development using vanilla JavaScript. I enjoy creating efficient and scalable software solutions and continuously improving my skills and knowledge.<br><br>## 💼 Professional Experience<br>- **Software Engineer at [SOCO Engineers](https://www.soco-engineers.com/)** <br>  - Duration: 2+ years<br>  - LinkedIn: [SOCO Engineers LinkedIn Profile](https://pk.linkedin.com/company/soco-engineers)<br><br>## 🛠️ Skills<br><br>### Backend Development<br>- Core Java<br>- Java EE<br>- Spring Framework<br>- Spring Boot<br>- Spring JPA<br>- Hibernate<br>- Multi-Threading<br><br>### Database<br>- PostgreSQL<br>- MySQL<br>- Oracle Database<br><br>### Application Servers<br>- Apache Tomcat<br>- Apache Karaf (OSGi-based applications)<br><br>### Frontend Development<br>- HTML5<br>- CSS<br>- JavaScript (Vanilla)<br>- jQuery<br>- Bootstrap<br><br>### Other Skills<br>- Python scripting<br>- Shell scripting<br>- NGINX<br>- JIRA<br>- BitBucket<br><br>## 🎓 Education<br>- **BS in Computer Science** from [University of Management and Technology (UMT)](https://www.umt.edu.pk/)<br><br>## 📫 Contact Information<br>- Email: frafi1712@gmail.com<br>- LinkedIn: [Fahad Rafi](https://www.linkedin.com/in/fahad-rafi-99854424a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br><br>## 🌱 Hobbies and Interests<br>- Robotics<br>- Gaming<br>- Sports<br>- Gym<br><br>---<br><br>Feel free to explore my repositories and connect with me. I'm always open to collaborating on exciting projects and sharing knowledge. Thank you for visiting my profile!<br>
 
-![Banner](https://via.placeholder.com/1200x400?text=Welcome+to+my+GitHub+Profile)
 
-I am a passionate software engineer with over 2 years of experience in backend development and more than 6 months in frontend development using vanilla JavaScript. I enjoy creating efficient and scalable software solutions and continuously improving my skills and knowledge.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fahad-rafi&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fahad-rafi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-rafi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 💼 Professional Experience
-- **Software Engineer at [SOCO Engineers](https://www.soco-engineers.com/)** 
-  - Duration: 2+ years
-  - LinkedIn: [SOCO Engineers LinkedIn Profile](https://pk.linkedin.com/company/soco-engineers)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fahad-rafi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠️ Skills
-
-### Backend Development
-- Core Java
-- Java EE
-- Spring Framework
-- Spring Boot
-- Spring JPA
-- Hibernate
-- Multi-Threading
-
-### Database
-- PostgreSQL
-- MySQL
-- Oracle Database
-
-### Application Servers
-- Apache Tomcat
-- Apache Karaf (OSGi-based applications)
-
-### Frontend Development
-- HTML5
-- CSS
-- JavaScript (Vanilla)
-- jQuery
-- Bootstrap
-
-### Other Skills
-- Python scripting
-- Shell scripting
-- NGINX
-- JIRA
-- BitBucket
-
-## 🎓 Education
-- **BS in Computer Science** from [University of Management and Technology (UMT)](https://www.umt.edu.pk/)
-
-## 📫 Contact Information
-- Email: frafi1712@gmail.com
-- LinkedIn: [Fahad Rafi](https://www.linkedin.com/in/fahad-rafi-99854424a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-## 🌱 Hobbies and Interests
-- Robotics
-- Gaming
-- Sports
-- Gym
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=fahad-rafi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Feel free to explore my repositories and connect with me. I'm always open to collaborating on exciting projects and sharing knowledge. Thank you for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
